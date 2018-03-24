@@ -1,1 +1,1 @@
-worker: python tweet_out.ipynb
+worker: python tweet_out.py
